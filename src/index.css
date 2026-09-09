@@ -353,11 +353,11 @@ dd {
 }
 
 .countdown-label {
-  margin-bottom: 2rem;
-  color: rgba(255, 255, 255, 0.72);
-  font-size: 0.82rem;
+  margin: 0 0 2rem;
+  color: #ffffff;
+  font-size: clamp(1.25rem, 4vw, 2rem);
   font-weight: 800;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 
